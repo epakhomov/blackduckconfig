@@ -1,0 +1,7 @@
+blackduck:
+  url: 'url'
+  trust.cert: true
+  username: 'username'
+  password: 'Password'
+detect:
+  project.name: 'project'
