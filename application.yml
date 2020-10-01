@@ -7,3 +7,4 @@ detect:
   project.name: 'project'
   blackduck.signature.scanner.snippet.matching: 'FULL_SNIPPET_MATCHING'
   blackduck.signature.scanner.individual.file.matching: 'ALL'
+  detect.blackduck.signature.scanner.exclusion.name.patterns
