@@ -9,3 +9,5 @@ detect:
   blackduck.signature.scanner.individual.file.matching: 'ALL'
   blackduck.signature.scanner.exclusion.name.patterns: ''
   detect.tools : 'DETECTOR'
+logging:
+  level.com.synopsys.integration: 'DEBUG'
