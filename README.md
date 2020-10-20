@@ -1,1 +1,1 @@
-# blackduckconfig
+Black Duck properites wity yaml
