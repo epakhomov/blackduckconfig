@@ -4,7 +4,9 @@ blackduck:
   username: 'username'
   password: 'Password'
   api.token: ''
+  offline.mode: true
 detect:
+  cleanup: false
   project.name: 'project'
   project.version.name: '1.0'
   blackduck.signature.scanner.snippet.matching: 'FULL_SNIPPET_MATCHING'
