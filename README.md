@@ -1,1 +1,1 @@
-Black Duck properites with yaml
+Black Duck configuration with yaml
