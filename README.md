@@ -1,1 +1,1 @@
-Black Duck properites wity yaml
+Black Duck properites with yaml
